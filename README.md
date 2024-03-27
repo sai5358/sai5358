@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-# 💫 About Me:
+# 💫 About Me: 
+### Hi, I'm Sai Charan,MBA Finance graduate with a passion for data analysis. Currently seeking opportunities in data analytics roles.and I'm eager to apply my financial expertise to the field of data analytics.
 🔭 I’m currently working on R Programming Language.<br>🤝 I’m looking for help with [R programming].<br>🌱 I’m currently learning Story Telling.<br>💬 Ask me about anything related to Data Analytics.<br>⚡ Fun fact - Iam Lazy but Smart.<br> how to reach me - komiresaicharan@gmail.com.
 
 
