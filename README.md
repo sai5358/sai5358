@@ -30,5 +30,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sai5358&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sai5358&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+##  "Today's Motivational Quote!":
+"Hard work is worthless for those that don't believe in themselves." 
+
 
 
